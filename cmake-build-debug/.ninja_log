@@ -1,0 +1,16 @@
+# ninja log v5
+10	780	1697917799335249661	CMakeFiles/Protein.dir/ProteinSequenceTest.cpp.o	7aff2c9a14c23b4f
+15	672	1697733423813950333	CMakeFiles/Protein.dir/AminoAcid.cpp.o	3ddee78fb708fff0
+9	569	1697912784520974560	CMakeFiles/Protein.dir/ProteinSequence.cpp.o	fec29c5f322b66b9
+11	309	1697915873068066695	CMakeFiles/Protein.dir/Nucleotide.cpp.o	d7705dbbcd7d0ad7
+9	510	1697912794734147899	CMakeFiles/Protein.dir/AcidTranslator.cpp.o	d0138bccfa9afd34
+620	672	1697917947728953999	Protein	2fb09fd979a13d9c
+12	827	1697915873585419662	CMakeFiles/Protein.dir/ProteinSequenсeTest.cpp.o	dbe081c3af5987e7
+8	620	1697917947673648693	CMakeFiles/Protein.dir/main.cpp.o	ff20a0ea20c70af3
+10	768	1697917799320820478	CMakeFiles/Protein.dir/AminoAcidTest.cpp.o	4df33edd1a10c50e
+0	67	1697918014214465274	build.ninja	55063fde0bc2e961
+0	72	1697918014214465274	build.ninja	55063fde0bc2e961
+7	463	1697918014683605826	CMakeFiles/Protein.dir/AminoAcid.cpp.o	3ddee78fb708fff0
+7	472	1697918014694720288	CMakeFiles/Protein.dir/ProteinSequence.cpp.o	fec29c5f322b66b9
+7	547	1697918014769591339	CMakeFiles/Protein.dir/main.cpp.o	ff20a0ea20c70af3
+547	599	1697918014824650976	Protein	648ff7a3fd46efd2

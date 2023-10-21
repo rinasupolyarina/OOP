@@ -1,0 +1,3 @@
+/Users/arinasupolarina/CLionProjects/Protein/cmake-build-debug/CMakeFiles/Protein.dir
+/Users/arinasupolarina/CLionProjects/Protein/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/arinasupolarina/CLionProjects/Protein/cmake-build-debug/CMakeFiles/rebuild_cache.dir
